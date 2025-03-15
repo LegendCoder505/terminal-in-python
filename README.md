@@ -1,4 +1,4 @@
-Thumbnail
+![Thumbnail](thumbnail.png)
 🚀 Building Your Own CLI in Python: A Step-by-Step Guide!
 
 I’ve created a tutorial series on how to build your own Command Line Interface (CLI) in Python! Whether you're a beginner or an advanced developer, this guide will help you master CLI development step by step.
