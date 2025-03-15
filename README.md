@@ -13,6 +13,33 @@ I’ve created a tutorial series on how to build your own Command Line Interface
 
 ✅ Typer for modern and intuitive CLI apps
 
+# 🚀 CLI Library Comparison: Typer vs Click vs Argparse vs sys.argv
+
+## 📌 CLI Library Comparison Table
+
+| Feature                         | `Typer` 🚀 | `Click` ⚡ | `argparse` 🔧 | `sys.argv` 📝 |
+|---------------------------------|-----------|-----------|--------------|--------------|
+| **Ease of Use**                 | ✅ Easiest | 🔸 Medium | 🔸 Medium    | ❌ Hard |
+| **Built-in Help (`--help`)**    | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Type Hints Support**          | ✅ Yes | ❌ No | ❌ No | ❌ No |
+| **Automatic Validation**        | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Default Values Support**      | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Named Arguments (`--option value`)** | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Required Arguments**          | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Subcommands Support**         | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Good for Complex CLIs**       | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
+| **Best for Simple Scripts**     | 🔸 Medium | 🔸 Medium | ✅ Yes | ✅ Best |
+| **Third-Party Dependency**      | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
+
+## 📌 Summary: Which One to Choose?
+
+✅ **Use `Typer` if** → You love **type hints**, want **modern Python support**, and need an easy-to-use CLI.
+✅ **Use `Click` if** → You want a **powerful, flexible CLI** without type hints.
+✅ **Use `argparse` if** → You prefer a **built-in, standard** Python library for CLIs.
+✅ **Use `sys.argv` if** → You need **basic CLI support** with minimal code.
+
+---
+
 
 📌 Stay tuned for more episodes!
 🔗 GitHub: https://github.com/LegendCoder505/terminal-in-python
