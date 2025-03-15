@@ -30,7 +30,7 @@ I’ve created a tutorial series on how to build your own Command Line Interface
 | **Good for Complex CLIs**       | ✅ Yes | ✅ Yes | ✅ Yes | ❌ No |
 | **Best for Simple Scripts**     | 🔸 Medium | 🔸 Medium | ✅ Yes | ✅ Best |
 | **Third-Party Dependency**      | ✅ Yes | ✅ Yes | ❌ No | ❌ No |
-| **Use Full Math Problems**       |✅ Yes | ✅ Yes  | None | None |
+| **Use Full Math Problems**       |✅ Yes | ✅ Yes  | ✅ Yes | None |
 
 
 ## 📌 Summary: Which One to Choose?
